@@ -49,3 +49,8 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 If you have any questions about these Terms, please contact us at:
 **Email:** support@eonastra.com
 **Organization:** Eonastra
+
+## 11. Apple App Store Additional Terms and EULA
+If you downloaded the App from the Apple App Store, you acknowledge and agree that these Terms are concluded between you and Eonastra only, and not with Apple, Inc. Eonastra, not Apple, is solely responsible for the App and the content thereof.
+
+Your use of the App must comply with the App Store Terms of Service. This agreement incorporates by reference the Apple [Standard Application End User License Agreement (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). In the event of any conflict between these Terms and the Apple Standard EULA, the terms of the Apple Standard EULA shall govern and take precedence.
